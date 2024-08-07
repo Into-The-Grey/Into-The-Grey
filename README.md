@@ -1,3 +1,5 @@
+---
+
 # Welcome to the Edge
 
 ### Introduction
@@ -18,6 +20,19 @@ To push AI beyond its known capabilities, to challenge the status quo, and to un
 
 This is an open invitation to the curious, the daring, and the relentless. If you seek the unknown and are ready to push the boundaries of what AI can achieve, you're in the right place.
 
+### Funding
+
+If you believe in our mission and want to support our journey, consider sponsoring our projects. Your contributions help us continue to push the envelope and explore new frontiers.
+
+- [Sponsor on GitHub](https://github.com/sponsors/Into-The-Grey)
+- [Donate via PayPal](https://paypal.me/cainacord231)
+
+### Collaboration
+
+We are always open to new collaborations and partnerships. For detailed information on how to collaborate with us, please refer to our [COLLABORATION.yml](./.github/COLLABORATION.yml) file.
+
 ### Contact
 
-For those who wish to collaborate, contribute, or simply converse, the path to connection is through the code. Let's explore the edge together.
+For those who wish to collaborate, contribute, or simply converse, the path to connection is through the code. Let's explore the edge together. You can reach us at [ncacord@protonmail.com](mailto:ncacord@protonmail.com).
+
+---
