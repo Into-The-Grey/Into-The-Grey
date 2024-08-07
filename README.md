@@ -27,7 +27,7 @@ If you believe in our mission and want to support our journey, consider sponsori
 - [Sponsor on GitHub](https://github.com/sponsors/Into-The-Grey)
 - [Donate via PayPal](https://paypal.me/cainacord231)
 
-### Collaboration
+### Collaboration [COMING SOON]
 
 We are always open to new collaborations and partnerships. For detailed information on how to collaborate with us, please refer to our [COLLABORATION.yml](./.github/COLLABORATION.yml) file.
 
