@@ -1,5 +1,9 @@
 # Welcome to the Edge
 
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Into-The-Grey&theme=onedark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Into-The-Grey&theme=onedark)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Into-The-Grey&theme=onedark)
+
 ### Introduction
 
 In a world where technology evolves at the speed of thought, standing still is not an option. Here, we don't just explore the boundaries of artificial intelligence; we redefine them. We are the seekers, the pioneers, the ones who ask, "What lies beyond?"
